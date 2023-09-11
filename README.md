@@ -1,5 +1,5 @@
 # Overview
-Airbnb has become an increasingly popular choice of accommodations for those travelling due to the growth of the sharing economy. New York, as a touristy developed city, owns a great number of Airbnb housings. The distribution, characteristics and link of Airbnb in New York City with other features are all interesting issues to investigate. In this perspective,this project studies two datasets: the Airbnb dataset and the New York City demography dataset.
+Airbnb has emerged as a progressively favored accommodation choice for travelers, thanks to the burgeoning sharing economy. New York City, being a highly developed tourist destination, boasts an extensive inventory of Airbnb properties. Exploring the distribution, characteristics, and connections of Airbnb in the context of New York City presents intriguing research opportunities. Thus, this project delves into two datasets: the Airbnb dataset and the demographic data of New York City, examining them from a geospatial perspective.
 
 # Research Question 
 1. How are Airbnbs distributed in NYC?
