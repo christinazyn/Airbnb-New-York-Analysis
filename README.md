@@ -4,7 +4,7 @@ This project analyzed Airbnb data using Python.
 
 [![GitHub Stars](https://img.shields.io/github/stars/christinazyn/airbnb-nyc-analysis)](https://github.com/christinazyn/airbnb-nyc-analysis/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/christinazyn/airbnb-nyc-analysis)](https://github.com/christinazyn/airbnb-nyc-analysis/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/christinazyn/airbnb-nyc-analysis)](https://github.com/christinazyn/airbnb-nyc-analysis)
+[![GitHub Issues](https://img.shields.io/github/issues/christinazyn/airbnb-nyc-analysis)](https://github.com/christinazyn/airbnb-nyc-analysis/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/christinazyn/airbnb-nyc-analysis)](https://github.com/christinazyn/airbnb-nyc-analysis/pulls)
 
 ## Table of Contents
