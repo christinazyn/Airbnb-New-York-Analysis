@@ -2,8 +2,6 @@
 
 This project analyzed Airbnb data using Python.
 
-[![GitHub Stars](https://img.shields.io/github/stars/christinazyn/airbnb-nyc-analysis)](https://github.com/christinazyn/airbnb-nyc-analysis/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/christinazyn/airbnb-nyc-analysis)](https://github.com/christinazyn/airbnb-nyc-analysis/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/christinazyn/airbnb-nyc-analysis)](https://github.com/christinazyn/airbnb-nyc-analysis/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/christinazyn/airbnb-nyc-analysis)](https://github.com/christinazyn/airbnb-nyc-analysis/pulls)
 
@@ -13,7 +11,7 @@ This project analyzed Airbnb data using Python.
 - [Demo](#demo)
 - [Data Analysis](#data-analysis)
   - [Data Source](#data-source)
-  - [Data Acuqiztion/Cleaning](#data-acuqiztioncleaning)
+  - [Data Acquisition/Cleaning](#data-acquisitioncleaning)
   - [Data Analysis](#data-analysis)
   - [Insights](#insights)
 
@@ -34,7 +32,7 @@ Airbnb has become a popular choice for travelers, thanks to the growing sharing 
 
 Since this project was completed in 2021, I have used the 2021 Airbnb data. Right now, the dataset has archived in the Inside Airbnb website, but you can find it in this reporsitory or make an archived data request on their website.
 
-### Data Acuqiztion/Cleaning
+### Data Acquisition/Cleaning
 
 In the initial data preparation phase, I performed the following tasks:
 
